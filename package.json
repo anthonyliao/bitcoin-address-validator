@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bitcoinjs-lib": "~6.0",
+    "ecpair": "~2.1",
+    "tiny-secp256k1": "~2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
